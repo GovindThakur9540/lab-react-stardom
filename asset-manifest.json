@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/stardom/static/css/main.39189390.chunk.css",
-    "main.js": "/stardom/static/js/main.64551ffc.chunk.js",
-    "main.js.map": "/stardom/static/js/main.64551ffc.chunk.js.map",
-    "runtime-main.js": "/stardom/static/js/runtime-main.2e7eb037.js",
-    "runtime-main.js.map": "/stardom/static/js/runtime-main.2e7eb037.js.map",
-    "static/js/2.d13632ac.chunk.js": "/stardom/static/js/2.d13632ac.chunk.js",
-    "static/js/2.d13632ac.chunk.js.map": "/stardom/static/js/2.d13632ac.chunk.js.map",
-    "index.html": "/stardom/index.html",
-    "static/css/main.39189390.chunk.css.map": "/stardom/static/css/main.39189390.chunk.css.map",
-    "static/js/2.d13632ac.chunk.js.LICENSE.txt": "/stardom/static/js/2.d13632ac.chunk.js.LICENSE.txt"
+    "main.css": "/lab-react-stardom/static/css/main.39189390.chunk.css",
+    "main.js": "/lab-react-stardom/static/js/main.73c03348.chunk.js",
+    "main.js.map": "/lab-react-stardom/static/js/main.73c03348.chunk.js.map",
+    "runtime-main.js": "/lab-react-stardom/static/js/runtime-main.410202c6.js",
+    "runtime-main.js.map": "/lab-react-stardom/static/js/runtime-main.410202c6.js.map",
+    "static/js/2.c75e18e2.chunk.js": "/lab-react-stardom/static/js/2.c75e18e2.chunk.js",
+    "static/js/2.c75e18e2.chunk.js.map": "/lab-react-stardom/static/js/2.c75e18e2.chunk.js.map",
+    "index.html": "/lab-react-stardom/index.html",
+    "static/css/main.39189390.chunk.css.map": "/lab-react-stardom/static/css/main.39189390.chunk.css.map",
+    "static/js/2.c75e18e2.chunk.js.LICENSE.txt": "/lab-react-stardom/static/js/2.c75e18e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e7eb037.js",
-    "static/js/2.d13632ac.chunk.js",
+    "static/js/runtime-main.410202c6.js",
+    "static/js/2.c75e18e2.chunk.js",
     "static/css/main.39189390.chunk.css",
-    "static/js/main.64551ffc.chunk.js"
+    "static/js/main.73c03348.chunk.js"
   ]
 }
